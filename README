@@ -1,0 +1,1 @@
+Cod Alert uses a cloud server that stores user and group information.  The user can send a message from the app and the server will send a push notification with the message to all members in the group.  The user can schedule a game at a specific time and all users in the group will get notifications leading up to the event.
