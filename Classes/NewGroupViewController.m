@@ -20,6 +20,7 @@
 		UIBarButtonItem *cancelItem = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemCancel target:self action:@selector(cancelPressed)];
 		self.navigationItem.leftBarButtonItem = cancelItem;
 		[cancelItem release];
+		DLog(@"cancel item: %@", cancelItem);
     }
     return self;
 }
