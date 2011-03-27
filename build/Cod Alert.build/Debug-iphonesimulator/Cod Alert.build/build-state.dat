@@ -1,0 +1,355 @@
+TCod Alert
+v7
+r0
+t320433705.893906
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Info.plist" Cod_Alert-Info.plist
+cCompileXIB "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/MainWindow.xib"
+cCompileXIB "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.xib"
+cCompileXIB "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.xib"
+cProcessPCH /var/folders/R8/R8OdDIZaFP0ulYixvWkaJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cod_Alert_Prefix-fvupkvatqldtcagttlycxsvbayzt/Cod_Alert_Prefix.pch.gch Cod_Alert_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/main.o" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/Cod_AlertAppDelegate.o" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/Cod_AlertAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/NewGroupViewController.o" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupViewController.o" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupListViewController.o" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Cod Alert" normal i386
+cGenerateDSYMFile "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app.dSYM" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Cod Alert"
+cTouch "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/Cod_AlertAppDelegate.h
+c000000004D68C35F00000000000001CE
+t1298711391
+s462
+i<UIKit/UIKit.h>
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/Cod_AlertAppDelegate.m
+c000000004D68C37B0000000000000B57
+t1298711419
+s2903
+i"Cod_AlertAppDelegate.h"
+i"GroupListViewController.h"
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupListViewController.h
+c000000004D68C297000000000000014C
+t1298711191
+s332
+i<UIKit/UIKit.h>
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupListViewController.m
+c000000004D68C2F70000000000001663
+t1298711287
+s5731
+i"GroupListViewController.h"
+i"GroupViewController.h"
+i"NewGroupViewController.h"
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.h
+c000000004D68BB020000000000000162
+t1298709250
+s354
+i<UIKit/UIKit.h>
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.m
+c000000004D68BB6C00000000000006F9
+t1298709356
+s1785
+i"GroupViewController.h"
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.xib
+c000000004D68C4C8000000000000507E
+t1298711752
+s20606
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupsViewController.h
+c000000004D68B8B100000000000000F2
+t1298708657
+s242
+i<UIKit/UIKit.h>
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupsViewController.m
+c000000004D68B8B100000000000012BC
+t1298708657
+s4796
+i"GroupsViewController.h"
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.h
+c000000004D68BD8D0000000000000169
+t1298709901
+s361
+i<UIKit/UIKit.h>
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.m
+c000000004D6936A80000000000000B18
+t1298740904
+s2840
+i"NewGroupViewController.h"
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.xib
+c000000004D68C4BC0000000000005083
+t1298711740
+s20611
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Cod_Alert_Prefix.pch
+c000000004D68B83800000000000000BB
+t1298708536
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/MainWindow.xib
+c000000004D68B8380000000000002112
+t1298708536
+s8466
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/Cod Alert.LinkFileList
+c000000004D68BA98000000000000035F
+t1298709144
+s863
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/Cod_AlertAppDelegate.o
+t1298711419
+s54320
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupListViewController.o
+t1298711287
+s50260
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupViewController.o
+t1298709887
+s41012
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupsViewController.o
+t2
+s0
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/NewGroupViewController.o
+t1298740905
+s53744
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/main.o
+t1298709153
+s6368
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app
+t1298740905
+s272
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app.dSYM
+t1298740905
+s102
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Cod Alert
+t1298740905
+s28096
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/GroupViewController.nib
+t1298711762
+s1606
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Info.plist
+t1298709144
+s599
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/MainWindow.nib
+t1298709150
+s986
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/NewGroupViewController.nib
+t1298711762
+s1608
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/PkgInfo
+t1298709144
+s8
+
+N/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/main.m
+c000000004D68B838000000000000016A
+t1298708536
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/R8/R8OdDIZaFP0ulYixvWkaJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cod_Alert_Prefix-fvupkvatqldtcagttlycxsvbayzt/Cod_Alert_Prefix.pch.gch
+t1298709153
+s15453392
+
+NCod_Alert-Info.plist
+c000000004D68B838000000000000038D
+t1298708536
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320433705#320433705#0(0"0(0#1#0"8707755808#0"0#
+
+CCompileC "build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/Cod_AlertAppDelegate.o" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/Cod_AlertAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320404219.729304
+e320404219.926716
+r1
+xCompileC
+xbuild/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/Cod_AlertAppDelegate.o
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/Cod_AlertAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/Cod_AlertAppDelegate.m320404219#320404219#0(0"0(0#0#102"/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/Cod_AlertAppDelegate.m8709322048#2379"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-generated-files.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-own-target-headers.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-all-target-headers.hmap" -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-project-headers.hmap" "-F/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/include" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources/i386" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources" -include /var/folders/R8/R8OdDIZaFP0ulYixvWkaJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cod_Alert_Prefix-fvupkvatqldtcagttlycxsvbayzt/Cod_Alert_Prefix.pch -c "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/Cod_AlertAppDelegate.m" -o "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/Cod_AlertAppDelegate.o"0#
+
+CCompileC "build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupListViewController.o" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320404087.775267
+e320404087.996772
+r1
+xCompileC
+xbuild/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupListViewController.o
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupListViewController.m320404087#320404087#0(0"0(0#0#105"/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupListViewController.m8690684160#2385"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-generated-files.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-own-target-headers.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-all-target-headers.hmap" -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-project-headers.hmap" "-F/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/include" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources/i386" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources" -include /var/folders/R8/R8OdDIZaFP0ulYixvWkaJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cod_Alert_Prefix-fvupkvatqldtcagttlycxsvbayzt/Cod_Alert_Prefix.pch -c "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupListViewController.m" -o "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupListViewController.o"0#
+
+CCompileC "build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupViewController.o" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320402684.367382
+e320402687.752317
+r1
+xCompileC
+xbuild/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupViewController.o
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.m320402684#320402687#0(0"0(0#0#101"/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.m8722128672#2377"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-generated-files.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-own-target-headers.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-all-target-headers.hmap" -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-project-headers.hmap" "-F/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/include" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources/i386" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources" -include /var/folders/R8/R8OdDIZaFP0ulYixvWkaJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cod_Alert_Prefix-fvupkvatqldtcagttlycxsvbayzt/Cod_Alert_Prefix.pch -c "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.m" -o "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupViewController.o"0#
+
+CCompileC "build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/GroupsViewController.o" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/NewGroupViewController.o" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320433705.074388
+e320433705.426821
+r1
+xCompileC
+xbuild/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/NewGroupViewController.o
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.m320433705#320433705#0(0"0(0#0#104"/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.m8707359008#2383"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-generated-files.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-own-target-headers.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-all-target-headers.hmap" -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-project-headers.hmap" "-F/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/include" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources/i386" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources" -include /var/folders/R8/R8OdDIZaFP0ulYixvWkaJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cod_Alert_Prefix-fvupkvatqldtcagttlycxsvbayzt/Cod_Alert_Prefix.pch -c "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.m" -o "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/NewGroupViewController.o"0#
+
+CCompileC "build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/main.o" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320401953.616861
+e320401953.740427
+r1
+xCompileC
+xbuild/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/main.o
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/main.m320401953#320401953#0(0"0(0#0#78"/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/main.m8703275904#2339"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-generated-files.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-own-target-headers.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-all-target-headers.hmap" -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-project-headers.hmap" "-F/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/include" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources/i386" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources" -include /var/folders/R8/R8OdDIZaFP0ulYixvWkaJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cod_Alert_Prefix-fvupkvatqldtcagttlycxsvbayzt/Cod_Alert_Prefix.pch -c "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/main.m" -o "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.xib"
+s320404560.921301
+e320404562.193031
+r1
+xCompileXIB
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.xib
+lSLF07#2@42"CompileXIB Classes/GroupViewController.xib320404560#320404562#0(0"0(0#0#103"/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.xib8686486048#703"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/GroupViewController.nib" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/GroupViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.xib"
+s320404560.919871
+e320404562.192764
+r1
+xCompileXIB
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.xib
+lSLF07#2@45"CompileXIB Classes/NewGroupViewController.xib320404560#320404562#0(0"0(0#0#106"/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.xib8705943328#709"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/NewGroupViewController.nib" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Classes/NewGroupViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/MainWindow.xib"
+s320401944.260742
+e320401950.219248
+r1
+xCompileXIB
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320401944#320401950#0(0"0(0#0#86"/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/MainWindow.xib8714606176#677"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/MainWindow.nib" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app.dSYM" "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Cod Alert"
+s320433705.707724
+e320433705.886428
+r1
+xGenerateDSYMFile
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app.dSYM
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Cod Alert
+lSLF07#2@119"GenerateDSYMFile "build/Debug-iphonesimulator/Cod Alert.app.dSYM" "build/Debug-iphonesimulator/Cod Alert.app/Cod Alert"320433705#320433705#0(0"0(0#0#123"/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Cod Alert8718109504#494"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Cod Alert" -o "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app.dSYM"0#
+
+CLd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Cod Alert" normal i386
+s320433705.426959
+e320433705.707584
+r1
+xLd
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Cod Alert
+xnormal
+xi386
+lSLF07#2@128"Link /Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Cod Alert320433705#320433705#0(0"0(0#0#0"8723581888#1085"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator" "-F/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator" -filelist "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Objects-normal/i386/Cod Alert.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Cod Alert"0#
+
+CProcessInfoPlistFile "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Info.plist" Cod_Alert-Info.plist
+s320401944.242276
+e320401944.260587
+r1
+xProcessInfoPlistFile
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Info.plist
+xCod_Alert-Info.plist
+lSLF07#2@28"Process Cod_Alert-Info.plist320401944#320401944#0(0"0(0#0#92"/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Cod_Alert-Info.plist8717838208#590"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Cod_Alert-Info.plist -genpkginfo "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app/Info.plist"0#
+
+CProcessPCH /var/folders/R8/R8OdDIZaFP0ulYixvWkaJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cod_Alert_Prefix-fvupkvatqldtcagttlycxsvbayzt/Cod_Alert_Prefix.pch.gch Cod_Alert_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320401950.219657
+e320401953.616634
+r1
+xProcessPCH
+x/var/folders/R8/R8OdDIZaFP0ulYixvWkaJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cod_Alert_Prefix-fvupkvatqldtcagttlycxsvbayzt/Cod_Alert_Prefix.pch.gch
+xCod_Alert_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Cod_Alert_Prefix.pch320401950#320401953#0(0"0(0#0#92"/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Cod_Alert_Prefix.pch8716169632#2194"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-generated-files.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-own-target-headers.hmap" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-all-target-headers.hmap" -iquote "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/Cod Alert-project-headers.hmap" "-F/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/include" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources/i386" "-I/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Cod Alert.build/Debug-iphonesimulator/Cod Alert.build/DerivedSources" -c "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/Cod_Alert_Prefix.pch" -o /var/folders/R8/R8OdDIZaFP0ulYixvWkaJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cod_Alert_Prefix-fvupkvatqldtcagttlycxsvbayzt/Cod_Alert_Prefix.pch.gch0#
+
+CTouch "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app"
+s320433705.886523
+e320433705.893840
+r1
+xTouch
+x/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app
+lSLF07#2@119"Touch /Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app320433705#320433705#0(0"0(0#0#0"8717181408#350"    cd "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Carter/Work/iDevices/Projects/Experimentation Projects/Cod Alert/build/Debug-iphonesimulator/Cod Alert.app"0#
+

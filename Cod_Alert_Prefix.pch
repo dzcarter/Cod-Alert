@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Cod Alert' target in the 'Cod Alert' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
